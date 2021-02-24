@@ -69,8 +69,8 @@
             // 
             this.TxtArchivoXMLLeido.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
-            this.TxtArchivoXMLLeido.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.TxtArchivoXMLLeido.ForeColor = System.Drawing.Color.White;
+            this.TxtArchivoXMLLeido.BackColor = System.Drawing.Color.White;
+            this.TxtArchivoXMLLeido.ForeColor = System.Drawing.Color.Black;
             this.TxtArchivoXMLLeido.Location = new System.Drawing.Point(12, 322);
             this.TxtArchivoXMLLeido.Multiline = true;
             this.TxtArchivoXMLLeido.Name = "TxtArchivoXMLLeido";
@@ -113,8 +113,8 @@
             // 
             this.listBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
-            this.listBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.listBox1.ForeColor = System.Drawing.Color.White;
+            this.listBox1.BackColor = System.Drawing.Color.White;
+            this.listBox1.ForeColor = System.Drawing.Color.Black;
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Location = new System.Drawing.Point(428, 322);
             this.listBox1.Name = "listBox1";
@@ -154,8 +154,8 @@
             this.Lvw1.AllowColumnReorder = true;
             this.Lvw1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.Lvw1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.Lvw1.ForeColor = System.Drawing.Color.White;
+            this.Lvw1.BackColor = System.Drawing.Color.White;
+            this.Lvw1.ForeColor = System.Drawing.Color.Black;
             this.Lvw1.FullRowSelect = true;
             this.Lvw1.GridLines = true;
             this.Lvw1.HideSelection = false;
@@ -215,7 +215,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DimGray;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1326, 634);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.BtnAbrirArchivoCSV);
